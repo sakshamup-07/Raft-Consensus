@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/SAKSHAM/raft-kv-store/cpp-raft/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
